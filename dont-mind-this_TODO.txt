@@ -1,0 +1,10 @@
+FILE CLEANUP
+-yA_hud stuff idc about
+-make easier to edit (split files like animations)
+-good icons
+-health styles?
+
+2021-12-06
+-Pyro/Heavy ammo too big
+-Medic Uber % in target id 
+-Target ID BG??
