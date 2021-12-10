@@ -1,5 +1,5 @@
 # isA_HUD
-
+yes, it is a hud
 
 <a>CREDITS</a>
 ====
