@@ -8,7 +8,7 @@
 
 **m0re:** m0rehud
 
-**Hypnotize:** Payload cart and inspiration, updating m0rehud
+**Hypnotize:** Payload cart and inspiration, updating m0rehud and yA_HUD
 
 **CriticalFlaw**, **Nukk**, **Griever**, **Peaches**: Inspiration and miscs
 
