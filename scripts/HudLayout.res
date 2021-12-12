@@ -55,7 +55,7 @@
 		"IconScale"	  "0.35"
 		"LineHeight"	  "13"
 		"LineSpacing"	  "0"
-		"CornerRadius"	  "0"
+		"CornerRadius"	  "1"
 		"RightJustify"	  "1"	// If 1, draw notices from the right
 		
 		"TextFont"		"Regular12" // Bold9

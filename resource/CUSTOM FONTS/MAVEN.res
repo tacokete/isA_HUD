@@ -975,6 +975,18 @@ Scheme
 				"antialias"	"1"
 			}
 		}
+		
+		"Bold20Shadow"
+		{
+			"1"
+			{
+				"name"		"Maven Pro Black"
+				"tall"		"20"
+				"additive"		"0"
+				"antialias"	"1"
+				"dropshadow" "1"
+			}
+		}
 
 		"Bold19"
 		{
@@ -1029,6 +1041,18 @@ Scheme
 				"tall"		"14"
 				"additive"		"0"
 				"antialias"	"1"
+			}
+		}
+		
+		"Bold14Shadow"
+		{
+			"1"
+			{
+				"name"		"Maven Pro Black"
+				"tall"		"14"
+				"additive"		"0"
+				"antialias"	"1"
+				"dropshadow" "1"
 			}
 		}
 

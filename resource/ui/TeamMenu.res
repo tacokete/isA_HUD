@@ -86,7 +86,7 @@
 		"team"				"3"		// team blue
 		"associated_model"	"blueButton"
 		"hover"				"0"
-		"font"			"Bold20"
+		"font"			"Bold20Shadow"
 		"border_default"	""
 		"border_armed"		""
 		"paintbackground"	"0"
@@ -118,7 +118,7 @@
 		"team"				"2"		// team red
 		"associated_model"	"reddoor"	
 		"hover"				"0"
-		"font"			"Bold20"
+		"font"			"Bold20Shadow"
 		"border_default"	""
 		"border_armed"		""
 		"paintbackground"	"0"

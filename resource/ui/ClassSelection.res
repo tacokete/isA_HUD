@@ -49,7 +49,7 @@
 		"textAlignment"		"west"
 		"Command"			"select 12"
 		"Default"			"1"
-		"font"				"Bold14"
+		"font"				"Bold14Shadow"
 		"scaleImage"		"1"
 		
 		"image_default"		"class_sel_sm_random_inactive"
@@ -136,7 +136,7 @@
 		"textAlignment"		"west"
 		"Command"			"select 1"
 		"Default"			"0"
-		"font"			"Bold14"
+		"font"			"Bold14Shadow"
 		"scaleImage"		"1"
 		
 		"image_default"		"class_sel_sm_scout_inactive"
@@ -195,7 +195,7 @@
 		"textAlignment"		"west"
 		"Command"			"select 3"
 		"Default"			"0"
-		"font"				"Bold14"
+		"font"				"Bold14Shadow"
 		"scaleImage"		"1"
 		
 		"image_default"		"class_sel_sm_soldier_inactive"
@@ -254,7 +254,7 @@
 		"textAlignment"		"west"
 		"Command"			"select 7"
 		"Default"			"0"
-		"font"				"Bold14"
+		"font"				"Bold14Shadow"
 		"scaleImage"		"1"
 		
 		"image_default"		"class_sel_sm_pyro_inactive"
@@ -340,7 +340,7 @@
 		"textAlignment"		"west"
 		"Command"			"select 4"
 		"Default"			"0"
-		"font"				"Bold14"
+		"font"				"Bold14Shadow"
 		"scaleImage"		"1"
 		
 		"image_default"		"class_sel_sm_demo_inactive"
@@ -399,7 +399,7 @@
 		"textAlignment"		"west"
 		"Command"			"select 6"
 		"Default"			"0"
-		"font"				"Bold14"
+		"font"				"Bold14Shadow"
 		"scaleImage"		"1"
 		
 		"image_default"		"class_sel_sm_heavy_inactive"
@@ -458,7 +458,7 @@
 		"textAlignment"		"west"
 		"Command"			"select 9"
 		"Default"			"0"
-		"font"				"Bold14"
+		"font"				"Bold14Shadow"
 		"scaleImage"		"1"
 		
 		"image_default"		"class_sel_sm_engineer_inactive"
@@ -544,7 +544,7 @@
 		"textAlignment"		"west"
 		"Command"			"select 5"
 		"Default"			"0"
-		"font"				"Bold14"
+		"font"				"Bold14Shadow"
 		"scaleImage"		"1"
 		
 		"image_default"		"class_sel_sm_medic_inactive"
@@ -603,7 +603,7 @@
 		"textAlignment"		"west"
 		"Command"			"select 2"
 		"Default"			"0"
-		"font"				"Bold14"
+		"font"				"Bold14Shadow"
 		"scaleImage"		"1"
 		
 		"image_default"		"class_sel_sm_sniper_inactive"
@@ -662,7 +662,7 @@
 		"textAlignment"		"west"
 		"Command"			"select 8"
 		"Default"			"0"
-		"font"				"Bold14"
+		"font"				"Bold14Shadow"
 		"scaleImage"		"1"
 		
 		"image_default"		"class_sel_sm_spy_inactive"
@@ -752,7 +752,7 @@
 		"border_default"	""
 		"border_armed"		""
 		"paintbackground"	"0"
-		"font"			"Bold14"
+		"font"			"Bold14Shadow"
 		"fgcolor"			"White"
 		"defaultFgColor_override" "White"
 		"armedFgColor_override" "Select"
