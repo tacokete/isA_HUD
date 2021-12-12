@@ -1,5 +1,5 @@
-# isA_HUD_m0re
-
+# isA_HUD
+yes, it is a hud
 
 <a>CREDITS</a>
 ====
@@ -8,7 +8,7 @@
 
 **m0re:** m0rehud
 
-**Hypnotize:** Payload cart and inspiration, updating m0rehud
+**Hypnotize:** Payload cart and inspiration, updating m0rehud and yA_HUD
 
 **CriticalFlaw**, **Nukk**, **Griever**, **Peaches**: Inspiration and miscs
 
