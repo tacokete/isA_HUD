@@ -8,3 +8,7 @@ FILE CLEANUP
 -Pyro/Heavy ammo too big
 -Medic Uber % in target id 
 -Target ID BG??
+
+2021-12-29
+-Arena player count and hudmatchstatus conflict
+-make wider and shorter hud match status panels
