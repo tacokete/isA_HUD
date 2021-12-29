@@ -12,3 +12,4 @@ FILE CLEANUP
 2021-12-29
 -Arena player count and hudmatchstatus conflict
 -make wider and shorter hud match status panels
+-color consistency in class menus
