@@ -211,7 +211,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceHPAmmo-Medium"
+				"name"		"Surface-Medium"
 				"tall"		"54"
 				"additive"		"0"
 				"antialias"	"1"
@@ -266,7 +266,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceHPAmmo-Medium"
+				"name"		"Surface-Medium"
 				"tall"		"48"
 				"additive"		"0"
 				"antialias"	"1"
@@ -377,7 +377,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceHPAmmo-Medium"
+				"name"		"Surface-Medium"
 				"tall"		"34"
 				"additive"		"0"
 				"antialias"	"1"
@@ -411,7 +411,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Broesel"
+				"name"		"Surface-Medium"
 				"tall"		"30"
 				"additive"		"0"
 				"antialias"	"1"
@@ -422,7 +422,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceHPAmmo-Medium"
+				"name"		"Surface-Medium"
 				"tall"		"28"
 				"additive"		"0"
 				"antialias"	"1"
@@ -1571,7 +1571,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Broesel"
+				"name"		"Surface-Medium"
 				"tall"		"23"
 				"additive"		"0"
 				"antialias"	"1"
@@ -2132,7 +2132,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Broesel"
+				"name"		"Surface-Medium"
 				"tall"		"23"
 				"additive"		"0"
 				"antialias"	"1"
@@ -2189,7 +2189,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Broesel"
+				"name"		"Surface-Medium"
 				"tall"		"20"
 				"additive"		"0"
 				"antialias"	"1"
@@ -5800,7 +5800,12 @@ Scheme
 		"12" 
 		{
 			"font" "resource/fonts/Surface-HP-and-Ammo.ttf"
-			"name" "SurfaceHPAmmo-Medium"
+			"name" "Surface-Medium"
+		}
+		"13"
+		{
+		    "font" "resource/fonts/Surface-Medium.otf"
+			"name" "Surface-Medium"
 		}
 	}
 }

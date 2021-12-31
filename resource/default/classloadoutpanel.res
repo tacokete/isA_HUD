@@ -95,7 +95,7 @@
 		"ControlName"		"CExLabel"
 		"fieldName"		"CaratLabel"
 		"font"			"HudFontSmallestBold"
-		"labelText"		">>"
+		"labelText"		"-"
 		"textAlignment"	"west"
 		"xpos"			"c-300"
 		"ypos"			"20"
@@ -131,7 +131,7 @@
 		"ControlName"		"CExLabel"
 		"fieldName"		"TauntCaratLabel"
 		"font"			"HudFontSmallestBold"
-		"labelText"		">>"
+		"labelText"		"-"
 		"textAlignment"	"west"
 		"xpos"			"c-150"
 		"ypos"			"20"
@@ -142,7 +142,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor_override" "200 80 60 255"
+		"fgcolor_override" "000 160 150 255"
 	}
 	"TauntLabel"
 	{

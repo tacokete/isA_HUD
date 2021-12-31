@@ -326,7 +326,7 @@
 		"ControlName"								"CTFTeamStatus"
 		"fieldName"									"TeamStatus"
 		"xpos"										"0"
-		"ypos"										"6"
+		"ypos"										"5"
 		"zpos"										"2"
 		"wide"										"f0"
 		"tall"										"15"
@@ -340,17 +340,17 @@
 
 		"team1_grow_dir" 							"west"
 		"team1_base_x"								"c-45"
-		"team1_max_expand"							"150"
+		"team1_max_expand"							"225"
 
 		"team2_grow_dir" 							"east"
 		"team2_base_x"								"c47"
-		"team2_max_expand"							"150"
+		"team2_max_expand"							"225"
 
 		"playerpanels_kv"
 		{
 			"visible"								"0"
-			"wide"									"25"
-			"tall"									"60"
+			"wide"									"26"
+			"tall"									"50"
 			"zpos"									"1"
 
 			"color_portrait_bg_red"					"RedTeam"
@@ -365,15 +365,15 @@
 			"color_portrait_blend_dead_red"			"255 255 255 255"
 			"color_portrait_blend_dead_blue" 		"255 255 255 255"
 			
-			"classimage"
+				"classimage"
 			{
 				"ControlName"						"CTFClassImage"
 				"fieldName"							"classimage"
 				"xpos"								"cs-0.5"
 				"ypos"								"0"
-				"zpos"								"5"
-				"wide"								"15"
-				"tall"								"15"
+				"zpos"								"7"
+				"wide"								"14"
+				"tall"								"14"
 				"visible"							"1"
 				"enabled"							"1"
 				"image"								"../hud/class_scoutred"
@@ -386,26 +386,26 @@
 				"ControlName"						"Panel"
 				"fieldName"							"classimagebg"
 				"xpos"								"0"
-				"ypos"								"0"
-				"zpos"								"2"
+				"ypos"								"5"
+				"zpos"								"1"
 				"wide"								"f0"
-				"tall"								"f0"
+				"tall"								"6"
 				"visible"							"1"
 				"enabled"							"1"
 				"PaintBackgroundType"				"0"
 				"proportionaltoparent"				"1"
 			}
 			
-			"healthbar"
+	        "healthbar"
 			{	
 				"ControlName"						"ContinuousProgressBar"
 				"fieldName"							"healthbar"
-				"font"								"Default"																		
+				"font"								"Default"
 				"xpos"								"0"
-				"ypos"								"0"
-				"zpos"								"3"
+				"ypos"								"5"
+				"zpos"								"5"
 				"wide"								"f0"
-				"tall"								"f0" 		
+				"tall"								"6"
 				"autoResize"						"0"
 				"pinCorner"							"0"
 				"visible"							"1"
@@ -413,7 +413,7 @@
 				"textAlignment"						"Left"
 				"dulltext"							"0"
 				"brighttext"						"0"
-				"bgcolor_override"	  				"000 000 000 125"
+				"bgcolor_override"	  				"80 80 80 0"
 				"proportionaltoparent"				"1"
 			}
 			
@@ -421,12 +421,12 @@
 			{	
 				"ControlName"						"ContinuousProgressBar"
 				"fieldName"							"overhealbar"
-				"font"								"Default"																		
+				"font"								"Default"
 				"xpos"								"0"
-				"ypos"								"0"
-				"zpos"								"4"
+				"ypos"								"5"
+				"zpos"								"6"
 				"wide"								"f0"
-				"tall"								"f0"				
+				"tall"								"6"
 				"autoResize"						"0"
 				"pinCorner"							"0"
 				"visible"							"1"
@@ -449,7 +449,7 @@
 				"wide"								"32"
 				"tall"								"32"
 				"visible"							"0"
-				"enabled"							"1"	
+				"enabled"							"0"	
 				"HealthBonusPosAdj"					"10"
 				"HealthDeathWarning"				"0.49"
 				"TFFont"							"HudFontSmallest"
@@ -461,10 +461,10 @@
 			{
 				"ControlName"						"CExLabel"
 				"fieldName"							"respawntime"
-				"font"								"Regular12"
+				"font"								"MapVotesPercentage"
 				"xpos"								"cs-0.5"
 				"ypos"								"0"
-				"zpos"								"10"
+				"zpos"								"8"
 				"wide"								"f0"
 				"tall"								"15"
 				"autoResize"						"0"
@@ -475,10 +475,6 @@
 				"proportionaltoparent"				"1"
 				"fgcolor_override"					"255 255 0 255"
 			}
-			
-			
-			
-			
 			"playername"
 			{
 				"ControlName"						"CExLabel"

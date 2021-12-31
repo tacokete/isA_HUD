@@ -9,8 +9,8 @@
 		"PositiveColor"			"Green"
 		"NegativeColor"			"Damage"
 		"delta_lifetime"		"3.0"
-		"delta_item_font"		"Medium23Shadow"	//change "Medium21" to "Medium21Outline" "Outline" to get an outline	
-		"delta_item_font_big"	"Medium23Shadow"	//"Heavy22" or "Heavy22Outline" are also an option
+		"delta_item_font"		"Medium23Shadow"	
+		"delta_item_font_big"	"Medium23Shadow"	
 	}
 
 	

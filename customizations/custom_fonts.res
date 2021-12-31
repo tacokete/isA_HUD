@@ -4,11 +4,9 @@
 
 //////////////////////////////////////////////////////
 
-//#base "../resource/CUSTOM FONTS/SURFACE.res"         // Surface (Broesel)
+//#base "../resource/CUSTOM FONTS/SURFACE.res"         // Surface (m0re)
 
 #base "../resource/CUSTOM FONTS/UBUNTU.res"          // Ubuntu
-
-//#base "../resource/CUSTOM FONTS/MAVEN.res"           // Maven Pro (KNHuds)
 
 //////////////////////////////////////////////////////
 
