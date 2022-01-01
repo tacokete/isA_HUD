@@ -136,6 +136,21 @@
 		"visible"		"1"
 		"enabled"		"1"
 	}
+	
+	"BG2"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"BG2"
+		"xpos"			"0"
+		"ypos"			"421"
+		"zpos"			"-50"
+		"wide"			"f0"
+		"tall"			"101"
+		"fillcolor"		"0 0 0 230"
+		"visible"		"1"
+		"enabled"		"1"
+	}
+
 
 	"ButtonsBG"
 	{
@@ -1298,12 +1313,13 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldname"		"FriendsContainer"
-		"xpos"			"r120"
-		"ypos"			"90"
+		"xpos"			"0"
+		"ypos"			"r58"
 		"zpos"			"10"
-		"wide"			"150"
-		"tall"			"300"
+		"wide"			"f0"
+		"tall"			"60"
 		"visible"		"1"
+		"proportionaltoparent" "1"
 
 		"bgcolor_override"		"0 0 0 0"
 
@@ -1313,41 +1329,34 @@
 			"fieldName"		"TitleLabel"
 			"font"			"MainMenu"
 			"labelText"		"#TF_Competitive_Friends"
-			"textAlignment"	"west"
-			"xpos"			"10"
-			"ypos"			"5"
-			"wide"			"f0"
-			"tall"			"30"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"textinsetx"	"0"
-			"fgcolor_override"	"WhiteS"
+			"wide"			"0"
+			"tall"			"0"
+			"visible"		"0"
+			"enabled"		"0"
 		}
 
 		"SteamFriendsList"
 		{
 			"ControlName"	"CSteamFriendsListPanel"
 			"fieldname"		"SteamFriendsList"
-			"xpos"			"12"
-			"ypos"			"32"
+			"xpos"			"200"
+			"ypos"			"0"
 			"zpos"			"500"
-			"wide"			"110"
-			"tall"			"262"
+			"wide"			"f0"
+			"tall"			"55"
 			"visible"		"1"
 			"proportionaltoparent"	"1"
 
-			"columns_count"	"1"
-			"inset_x"		"0"
-			"inset_y"		"0"
-			"row_gap"		"2"
-			"column_gap"	"20"
+			"columns_count"	"8"
+			"inset_x"		"1"
+			"inset_y"		"1"
+			"row_gap"		"1"
+			"column_gap"	"1"
 			"restrict_width"	"0"
 
 			"friendpanel_kv"
 			{
-				"wide"		"100"
+				"wide"		"80"
 				"tall"		"20"
 			}
 
@@ -1355,11 +1364,11 @@
 			{
 				"ControlName"	"ScrollBar"
 				"FieldName"		"ScrollBar"
-				"xpos"			"104"
+				"xpos"			"0"
 				"ypos"			"0"
-				"tall"			"f0"
-				"wide"			"5" // This gets slammed from client schme.  GG.
-				"zpos"			"1000"
+				"tall"			"0"
+				"wide"			"0" 
+				"zpos"			"0"
 				"nobuttons"		"1"
 				"proportionaltoparent"	"1"
 
@@ -1388,12 +1397,12 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldname"		"BelowDarken"
-			"xpos"			"10"
-			"ypos"			"30"
-			"zpos"			"499"
-			"wide"			"110"
-			"tall"			"264"
-			"visible"		"1"	
+			"xpos"			"0"
+			"ypos"			"0"
+			"zpos"			"0"
+			"wide"			"0"
+			"tall"			"0"
+			"visible"		"0"	
 			"PaintBackgroundType"	"0"
 			"proportionaltoparent"	"1"
 			"mouseinputenabled"	"0"
