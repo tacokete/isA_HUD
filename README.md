@@ -12,7 +12,7 @@ yes, it is a hud
 
 **Hypnotize:** Payload cart and inspiration, updating m0rehud and yA_HUD
 
-**CriticalFlaw**, **Nukk**, **Griever**, **Peaches**: Inspiration and miscs
+**CriticalFlaw**, **Nukk**, **Griever**, **Peaches**, **Sammy**: Inspiration and miscs
 
 **FUNKe**: Inspiration
 
