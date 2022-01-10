@@ -4107,7 +4107,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Ubuntu Regular"
+				"name"		"Ubuntu Medium"
 				"tall"		"9"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -4117,7 +4117,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Ubuntu Regular"
+				"name"		"Ubuntu Medium"
 				"tall"		"9"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -4127,7 +4127,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Ubuntu Regular"
+				"name"		"Ubuntu Medium"
 				"tall"		"10"
 				"additive"	"0"
 				"antialias" 	"1"

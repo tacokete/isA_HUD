@@ -326,7 +326,7 @@
 		"ControlName"								"CTFTeamStatus"
 		"fieldName"									"TeamStatus"
 		"xpos"										"0"
-		"ypos"										"5"
+		"ypos"										"0"
 		"zpos"										"2"
 		"wide"										"f0"
 		"tall"										"15"
